@@ -1,0 +1,32 @@
+.head-style {
+    background: #333 !important;
+}
+
+.heading-style {
+    color: #fff !important;
+}
+
+.heading-style:hover {
+    color: red !important;
+}
+
+.dropdown:focus {
+    background-color: #333 !important;
+}
+
+.dropdown-border {
+    border: 0 !important;
+}
+
+.footer {
+    background-color: #333;
+    margin-top: 40px;
+    vertical-align: middle;
+}
+
+.footer p {
+    color: #fff;
+    padding: 5px 15px;
+    text-align: center;
+    font-size: 11px;
+}

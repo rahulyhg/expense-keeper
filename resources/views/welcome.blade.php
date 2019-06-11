@@ -10,6 +10,18 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="/css/bootstrap.css">
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+        <script src="/js/jquery.js"></script>
+
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="/js/bootstrap.js"></script>
+
         <!-- Styles -->
         <style>
             html, body {
